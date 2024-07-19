@@ -1,0 +1,14 @@
+# Byte-compiled files
+__pycache__/
+*.pyc
+*.pyo
+
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints/
+
+# Virtual environment directories
+de-venv/
+
+# Browser related directories
+chromedriver-linux64.zip
+chromedriver-linux64/
